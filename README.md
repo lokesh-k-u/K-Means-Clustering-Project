@@ -4,7 +4,9 @@ K-Means clustering is used to find intrinsic groups within the unlabelled datase
 
 **Table of Contents**
 Introduction to K-Means Clustering
+
 K-Means Clustering intuition
+
 Choosing the value of K
 The elbow method
 The problem statement
