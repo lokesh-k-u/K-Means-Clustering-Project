@@ -3,26 +3,42 @@ K-Means clustering is the most popular unsupervised machine learning algorithm.
 K-Means clustering is used to find intrinsic groups within the unlabelled dataset and draw inferences from them. I have used Facebook Live Sellers in Thailand dataset for this project. I implement K-Means clustering to find intrinsic groups within this dataset that display the same status_type behaviour. The status_type behaviour variable consists of posts of a different nature (video, photos, statuses and links).
 
 **Table of Contents**
-Introduction to K-Means Clustering
 
-K-Means Clustering intuition
+1)Introduction to K-Means Clustering
 
-Choosing the value of K
-The elbow method
-The problem statement
-Dataset description
-Import libraries
-Import dataset
-Exploratory data analysis
-Declare feature vector and target variable
-Convert categorical variable into integers
-Feature scaling
-K-Means model with two clusters
-K-Means model parameters study
-Check quality of weak classification by the model
-Use elbow method to find optimal number of clusters
-K-Means model with different clusters
-Results and conclusion
+2)K-Means Clustering intuition
+
+3)Choosing the value of K
+
+4)The elbow method
+
+5)The problem statement
+
+6)Dataset description
+
+7)Import libraries
+
+8)Import dataset
+
+9)Exploratory data analysis
+
+10)Declare feature vector and target variable
+
+11)Convert categorical variable into integers
+
+12)Feature scaling
+
+13)K-Means model with two clusters
+
+14)K-Means model parameters study
+
+15)Check quality of weak classification by the model
+
+16)Use elbow method to find optimal number of clusters
+
+17)K-Means model with different clusters
+
+18Results and conclusion
 
 **1. Introduction to K-Means Clustering**
 Machine learning algorithms can be broadly classified into two categories - supervised and unsupervised learning. There are other categories also like semi-supervised learning and reinforcement learning. But, most of the algorithms are classified as supervised or unsupervised learning. The difference between them happens because of presence of target variable. In unsupervised learning, there is no target variable. The dataset only has input variables which describe the data. This is called unsupervised learning.
