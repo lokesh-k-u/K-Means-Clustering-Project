@@ -38,7 +38,7 @@ K-Means clustering is used to find intrinsic groups within the unlabelled datase
 
 17)K-Means model with different clusters
 
-18Results and conclusion
+18)Results and conclusion
 
 **1. Introduction to K-Means Clustering**
 Machine learning algorithms can be broadly classified into two categories - supervised and unsupervised learning. There are other categories also like semi-supervised learning and reinforcement learning. But, most of the algorithms are classified as supervised or unsupervised learning. The difference between them happens because of presence of target variable. In unsupervised learning, there is no target variable. The dataset only has input variables which describe the data. This is called unsupervised learning.
